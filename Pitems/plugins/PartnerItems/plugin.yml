@@ -1,0 +1,11 @@
+name: PartnerItems
+main: Rage\PartnerItems
+author: Rage
+version: 1.0
+api: 3.14.0
+description: "PartnerPackage Plugin For Hcf Servers"
+commands:
+  package:
+    description: "give a partnerpackage to a player"
+    permission: "hcf.perm.commamd"
+
